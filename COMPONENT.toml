@@ -3,7 +3,7 @@ name = "SigmaOS-efivar"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "efivar component"
+description = "SigmaOS SigmaOS-efivar component"
 upstream = []
 
 [contract]
